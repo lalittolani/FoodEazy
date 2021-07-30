@@ -5,6 +5,8 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
 
 **Project Link** - ***https://foodeazy.herokuapp.com/***
 
+**Demo Video** - ***https://youtu.be/NvLRpNzKYss***
+
 
 ## Features and Functionalities 😃
 **User features**
