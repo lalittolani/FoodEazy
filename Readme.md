@@ -3,7 +3,7 @@
 
 Food Eazy, is an online platform to order food and avoiding the hassle of going out or paying in cash. The users can opt for home delivery or take away as per thier choice and can pay thorugh cash or online methods (PayTM). In the times of COVID-19 where social distancing is such an important measure we think our website can help restaurants and customers.
 
-**Project Link** - ***https://foodeazy.herokuapp.com/***
+**Project Link** - ***https://foodeazy-web.herokuapp.com/***
 
 **Demo Video** - ***https://youtu.be/NvLRpNzKYss***
 
